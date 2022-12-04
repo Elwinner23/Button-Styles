@@ -1,0 +1,54 @@
+body {
+    line-height: 1;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+button{
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  margin: 0 25px 0 25px;
+  padding: 0 5px 0 5px;
+  transition: padding 2s, color 2s, background 2s, margin 2s;
+
+
+  /*transform: translate(-0.2rem, -0.2rem);
+  background: #fff;
+  padding: 1rem 2rem;
+        box-shadow:
+            0.2rem 0.2rem 0.2rem rgba(0, 0, 0, 1);
+
+
+        transition:
+            box-shadow 200ms ease-out,
+            transform 200ms ease-out;*/
+}
+
+button:hover{
+  color: rgb(255,255,255);
+  background: #333;
+  padding: 0 25px 0 25px;
+  margin: 0 5px 0 5px;
+}
+
+button:active{
+  /*transform: translate(0, 0);
+  box-shadow: 0 0 0 #000;*/
+}
+
+.url-text{
+    color: rgb(0, 133, 133);
+}
+
+.buy-text{
+    color: rgb(0, 118, 0);
+}
+
+.button1{
+    background-color: rgb(250,216,20);
+}
+
+.button2{
+    background-color: rgb(255,164,28);
+}
