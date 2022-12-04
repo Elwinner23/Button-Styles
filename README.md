@@ -1,2 +1,5 @@
 # Button-Styles
-In this project I applied different style to buttons in order to increase their functionality
+My new versions
+~button Subscribe
+~button Join + new color
+~button Tweet
